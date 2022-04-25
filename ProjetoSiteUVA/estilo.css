@@ -1,0 +1,273 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.bemvindo{
+    position: absolute;
+    font-size: 40px;
+    top: 110px;
+    left: 280px;
+}
+.horario{
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+    left: 500px;
+}
+.sábado{
+    position: absolute;
+    font-size: 30px;
+    top: 233px;
+    left: 892px;
+}
+#loja1{
+    position: absolute;
+    top: 320px;
+    left: 170px;
+}
+    #loja1 img{
+        border: 3px solid;
+    }
+#loja2{
+    position: absolute;
+    top: 320px;
+    left: 1000px;
+}
+    #loja2 img{
+        border: 3px solid;
+    }
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans' , sans-serif;
+}
+#menu ul{
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+#menu ul li a:hover{
+    background-color: white;
+    color: black;
+}
+#random{
+    text-align: center;
+    font-size: 27px;
+}
+#atençao{
+    text-align: center;
+    font-size: 27px;
+    color: red;
+}
+.imagem1{
+    position: absolute;
+    left: 200px;
+}
+    .imagem1 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.imagem2{
+    position: absolute;
+    left: 760px;
+}
+    .imagem2 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.imagem3{
+    position: absolute;
+    right: 200px;
+}
+    .imagem3 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.imagem4{
+    position: absolute;
+    left: 200px;
+    top: 690px;
+}
+    .imagem4 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.imagem5{
+    position: absolute;
+    top: 690px;
+    left: 760px;
+}
+    .imagem5 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.imagem6{
+    position: absolute;
+    top: 690px;
+    right: 200px;
+}
+    .imagem6 img{
+        height: 350px;
+        width: 400px;
+        border: 3px solid;
+    }
+.correia{
+    position: absolute;
+    left: 305px;
+    bottom: 375px;
+    font-size: 25px;
+}
+.correiapreço{
+    position: absolute;
+    left: 322px;
+    bottom: 348px;
+    font-size: 20px;
+}
+.retifica{
+    position: absolute;
+    left: 853px;
+    bottom: 375px;
+    font-size: 25px;
+}
+.retificapreço{
+    position: absolute;
+    left: 881px;
+    bottom: 348px;
+    font-size: 20px;
+}
+.injecao{
+    position: absolute;
+    bottom: 375px;
+    right: 230px;
+    font-size: 25px;
+}
+.injeçaopreço{
+    position: absolute;
+    bottom: 348px;
+    right: 300px;
+    font-size: 20px;
+}
+.manutencaognv{
+    position: absolute;
+    top: 1047px;
+    font-size: 25px;
+    left: 280px;
+}
+.manutencaognvpreco{
+    position: absolute;
+    top: 1075px;
+    font-size: 20px;
+    left: 308px;
+}
+.trocaembreagem{
+    position: absolute;
+    top: 1047px;
+    font-size: 25px;
+    left: 800px;
+}
+.trocaembreagempreco{
+    position: absolute;
+    top: 1075px;
+    font-size: 20px;
+    left: 881px;
+}
+.pastilha{
+    position: absolute;
+    right: 230px;
+    top: 1047px;
+    font-size: 25px;
+}
+.pastilhapreco{
+    position: absolute;
+    top: 1075px;
+    font-size: 20px;
+    right: 310px;
+}
+#instagram{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+#instagram img:hover{
+    width: 410px;
+}
+#facebook{
+    position: absolute;
+    top: 200px;
+    left: 740px;
+}
+#facebook img:hover{
+    width: 410px;
+}
+#whatsapp{
+    position: absolute;
+    top: 200px;
+    right: 300px;
+}
+#whatsapp img:hover{
+    width: 410px;
+}
+#contato{
+    position: absolute;
+    top: 700px;
+    left: 293px;
+}
+#localizaçao{
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+#localizaçao img{
+    border: 3px solid;
+    border-color: black;
+}
+#localizaçao img:hover{
+    width: 1410px;
+}
+#mensagem{
+    position: absolute;
+    top: 85px;
+    left: 465px;
+}
+.telefone{
+    position: absolute;
+    top: 750px;
+    left: 765px;
+}
+.sobre{
+    position: absolute;
+    top: 500px;
+    left: 631px;
+}
+#mrh1{
+    position: absolute;
+    top: 84px;
+    left: 650px;
+}
+    #mrh1 img{
+        border: 3px solid;
+    }
+#mrh3{
+    position: absolute;
+    top: 726px;
+    left: 785px;
+}
+    #mrh3 img{
+        border: 3px solid;
+    }
